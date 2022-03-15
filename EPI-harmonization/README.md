@@ -8,3 +8,4 @@ COVID-19 Ontology EPI harmonization Mini-hackathon will take place on <b>March 1
 <b>Participants</b>:
 - Rhiannon Cameron [0000-0002-9578-0788](https://orcid.org/0000-0002-9578-0788) [@cmrn-rhi](https://github.com/cmrn-rhi)
 - Emma Griffiths [0000-0002-1107-9135](https://orcid.org/0000-0002-1107-9135) [@griffie](https://github.com/griffie)
+- Núria Queralt Rosinach [0000-0003-0169-8159](https://orcid.org/0000-0003-0169-8159) [@NuriaQueralt](https://github.com/NuriaQueralt)
